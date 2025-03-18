@@ -7,7 +7,7 @@
         "parts": [
           {
             "path": "https://nlaberge.github.io/twopersonplay/firmware.bin",
-            "offset": 0x10000
+            "offset": 65536
           }
         ]
       }
